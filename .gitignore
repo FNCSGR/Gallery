@@ -6,3 +6,5 @@ _site
 posts.json
 test_posts.json
 groups.json
+/.bundle/
+/vendor/bundle/
