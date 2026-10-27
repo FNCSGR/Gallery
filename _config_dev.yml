@@ -1,4 +1,4 @@
-baseurl: "/Gallery/dev"
+baseurl: "/Gallery"
 
 include:
   - Organiser.html

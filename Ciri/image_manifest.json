@@ -150,5 +150,9 @@
   {
     "name": "Vice",
     "file": "Defines/Images/Vice.json"
+  },
+  {
+    "name": "Sandreiio",
+    "file": "Defines/Images/Sandreiio.json"
   }
 ]

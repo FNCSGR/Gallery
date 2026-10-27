@@ -3,7 +3,7 @@
 set -e
 
 CONFIG="_config.yml,_config_dev.yml"
-URL="http://127.0.0.1:4000/Gallery/dev/Organiser"
+URL="http://127.0.0.1:4000/Gallery/Organiser"
 
 echo "Starting Jekyll local preview..."
 
